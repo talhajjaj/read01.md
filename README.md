@@ -10,7 +10,7 @@ There is this quote in this article which i really like it and its Summarize eve
 > "We live in a society where the instant gratification monkey sits on everyone’s shoulder."
 so dont wait life to become a pink life you should obstacles to overcome .
 
-##I will give you some advice of how to keep yourself in a growth mindset and its from me## : 
+*I will give you some advice of how to keep yourself in a growth mindset and its from me* : 
 
 - Nothing easy in this life , and what comes easy will easy go too .
 - dont give up and upset every thing have solution the world will not stop on it.

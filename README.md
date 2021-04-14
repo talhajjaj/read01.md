@@ -8,7 +8,7 @@
 | -------- | ------------------------------------------------------- |
 |read03    |[link](https://talhajjaj.github.io/reading-notes/read03) |
 | -------- | ------------------------------------------------------- |
-|read04    |[link](https://talhajjaj.github.io/reading-notes/read04) |
+|read04    |[link](https://talhajjaj.github.io/reading-notes/) |
 | -------- | ------------------------------------------------------- |
 |read05    |[link](https://talhajjaj.github.io/reading-notes/read05) |
 | -------- | ------------------------------------------------------- |

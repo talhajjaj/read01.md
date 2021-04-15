@@ -28,13 +28,23 @@ markdown language : is a way to style text on the web ,and formatting words as b
 >HELLO .
 
 and the best part is that you can add image , any image that you want, lets try now to add a image ;
-![pretty cat ](/images/https://i.imgflip.com/2qj7dl.jpg)
+![pretty cat](https://i.imgflip.com/2qj7dl.jpg)
 
+- You can add emoji to your writing too.
+
+- you can add tables :
+You can create tables by assembling a list of words and dividing them with hyphens - (for the first row), and then separating each column with a pipe |
+
+add names | age
+--------- | -----------
+
+.
 its the **GitHub** site, it will help you to coding a great web page in easy way and it will not take a minute.
 
-and and give you a choice to put any theme that you like , you can publish it for free 👍
+ and its give you a choice to put any theme that you like ,and you can publish it for free 👍
 
-What are you waiting for !! sign in now to start your webpage project .
+What are you waiting for !! 
+sign in now to start your webpage project .
 
 [GitHub pages](https://pages.github.com/)
 

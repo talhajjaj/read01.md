@@ -25,11 +25,10 @@ markdown language : is a way to style text on the web ,and formatting words as b
 - add * * to make it *italic* style.
 - add ~~ ~~ to make it  ~~Strikethrough~~
 - Quoting text is my favorite You can quote text with a >.
->HELLO 
+>HELLO .
 
-
-
-
+and the best part is that you can add image , any image that you want, lets try now to add a image ;
+![pretty cat ](/images/https://i.imgflip.com/2qj7dl.jpg)
 
 its the **GitHub** site, it will help you to coding a great web page in easy way and it will not take a minute.
 

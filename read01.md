@@ -28,6 +28,7 @@ markdown language : is a way to style text on the web ,and formatting words as b
 >HELLO .
 
 and the best part is that you can add image , any image that you want, lets try now to add a image ;
+
 ![pretty cat](https://i.imgflip.com/2qj7dl.jpg)
 
 - You can add emoji to your writing too.
@@ -39,7 +40,7 @@ add names | age
 --------- | -----------
 
 .
-its the **GitHub** site, it will help you to coding a great web page in easy way and it will not take a minute.
+its the **GitHub** site, it will help you to coding a great web page in easy way and it will not take a minute when you open the website it will show you the steps to start working .
 
  and its give you a choice to put any theme that you like ,and you can publish it for free 👍
 
@@ -48,7 +49,7 @@ sign in now to start your webpage project .
 
 [GitHub pages](https://pages.github.com/)
 
-[GitHub Logo](/images/logo.png)
+![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
  
 
 

@@ -22,3 +22,15 @@ a computer process takes info from the memory , it changes using algorithm; whic
 - output :
 the output is the final result , a text , photo, vedio games ....
 and when computer connect to the internet the output from one computer become the input to another .
+
+so we all know that computers work on ones and zero , 0101010101 its do play truly in how computer work inside , the inside coputer there is a electric wires and circuits that store the info
+so how do you store info using electricity? 
+with one wire we can represent a yes or no , or any thing that have two options .
+every word or image you see on the web page is represented using a system like this.
+
+the computer is Consists the *hardware* and *software*
+hardware is the wires,chips ,keyboard, plugs..
+software is all computer programs thats running inside the computer its can be apps and games .
+so the software and hardware is interact to each other so its became a computer .
+
+![computer](https://inteng-storage.s3.amazonaws.com/img/iea/M3OeKdkn6N/sizes/hardware-versus-software_md.jpg)

@@ -5,7 +5,6 @@
 |read02    | [link](https://talhajjaj.github.io/reading-notes/read02)|
 | -------- | ------------------------------------------------------- |
 |growth    |[link](https://talhajjaj.github.io/reading-notes/growth) |
-<<<<<<< HEAD
 | -------- | ------------------------------------------------------- |
 |read03    |[link](https://talhajjaj.github.io/reading-notes/read03) |
 | -------- | ------------------------------------------------------- |
@@ -14,6 +13,3 @@
 |read05    |[link](https://talhajjaj.github.io/reading-notes/read05) |
 | -------- | ------------------------------------------------------- |
 |read06    |[link](https://talhajjaj.github.io/reading-notes/read06) |
-=======
->>>>>>> 9f510e5a7c6151d9c75323a37d9552ee2773ada6
-| -------- | ------------------------------------------------------- |

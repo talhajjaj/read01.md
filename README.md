@@ -1,7 +1,12 @@
 # reading notes 102 
 
-|read01    | [Link](https://talhajjaj.github.io/reading-notes/read01)|
+*Hello, this is Taima al-hajjaj , 
+and this is my reading notes table *;
+
+
+|reading number|[Link]| 
 -------- | ------------------------------------------------------- 
+|read01    | [Link](https://talhajjaj.github.io/reading-notes/read01) 
 |read02    | [link](https://talhajjaj.github.io/reading-notes/read02)|
 |growth    |[link](https://talhajjaj.github.io/reading-notes/growth) |
 |read03    |[link](https://talhajjaj.github.io/reading-notes/read03) |

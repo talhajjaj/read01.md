@@ -1,23 +1,3 @@
-**Intro + Scripts: **
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 **what is a function ?**
  its a group of series statement together that execute a task , specific task.
 rather than repeatin same statements , you can reuse the function.

@@ -14,3 +14,5 @@ and this is my reading notes table *;
 |read04b   |[link](https://talhajjaj.github.io/reading-notes/read04b)|
 |read05    |[link](https://talhajjaj.github.io/reading-notes/read05) |
 |read06    |[link](https://talhajjaj.github.io/reading-notes/read06) |
+|read07    |[link](https://talhajjaj.github.io/reading-notes/read07) |
+|read09    |[link](https://talhajjaj.github.io/reading-notes/read09) |

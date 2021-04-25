@@ -1,6 +1,5 @@
 Introduction 
 
-
 you need a computer and a text editor to get the best benefited of this book .
 Fact that coding isnt that hard to learn how
 to write web pages and read
@@ -76,10 +75,8 @@ It is used to uniquely identify that element from other elements on the page, It
 Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1> and there is a inline elements such as <img>
 
 
-
  Escape characters :
  There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
-
 
  **HTML5 Layout:**
 some of the html layout :
@@ -96,3 +93,4 @@ Process  and Design :
 why should anyone visit your website or became his favorite ?
 exactly by your design and attractive page it should take all the customer or the user attention so you should take care about color style and the product or the service that you give.
  you should ask your self first ,Who is the Site For? and who is your audience
+

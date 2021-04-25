@@ -54,3 +54,32 @@ headings).</p>
 </html>
 
 HTML uses elements to describe the structure of Pages , the Tags are often referred to as elements.
+
+**Extra Markup :**
+there is many virsions of HTML:
+Each new version was designed to be an improvement on the last ,
+HTML4 : released 1997
+XHTML 1.0 :released 2000
+HTML5 :released 2000 ,Despite the fact that HTML5 is not yet completed, but you can safely take advantage of the new features of the language.
+- how to add a comment ?
+If you want to add a comment to your code that will not be
+visible in the user's browser, you can add the text between these
+characters:
+<!-- comment goes here -->
+- class attribute :
+you can use the class attribute. Its value should describe the class it belongs to.
+
+- Id attribute:
+It is used to uniquely identify that element from other elements on the page, It is important that no two elements on the same page have the same value for their id attributes.
+
+-Block element:
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1>
+
+-inline element:
+Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements such as <img>
+
+ Escape characters :
+ There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
+
+ **HTML5 Layout:**
+ 

@@ -1,8 +1,9 @@
-# reading notes 102 
+# reading notes :
 
 *Hello, this is Taima al-hajjaj , 
 and this is my reading notes table *;
 
+**reading code 102**
 
 |reading number|[Link]| 
 --------   | ------------------------------------------------------- 
@@ -16,3 +17,11 @@ and this is my reading notes table *;
 |read06    |[link](https://talhajjaj.github.io/reading-notes/read06) |
 |read07    |[link](https://talhajjaj.github.io/reading-notes/read07) |
 |read09    |[link](https://talhajjaj.github.io/reading-notes/read09) |
+
+
+**reading code 201 : **
+
+|reading number|[Link]| 
+--------   | ------------------------------------------------------- 
+|read001  |[Link](https://talhajjaj.github.io/reading-notes/read001) |
+

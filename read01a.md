@@ -81,5 +81,17 @@ Some elements will always appear to continue on the same line as their neighbour
  Escape characters :
  There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
 
+
  **HTML5 Layout:**
- 
+some of the html layout :
+ The header and footer elements can be used for:
+- The main header or footer that appears at the top or
+bottom of every page on the site.
+- A header or footer for an individual <article> or
+<section> within the page.
+
+The navigation <nav> element is used to contain the major navigational
+blocks on the site such as the primary site navigation.
+
+The <article> element acts as a container for any section of a
+page that could stand alone and potentially be syndicated.

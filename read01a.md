@@ -73,10 +73,9 @@ you can use the class attribute. Its value should describe the class it belongs 
 It is used to uniquely identify that element from other elements on the page, It is important that no two elements on the same page have the same value for their id attributes.
 
 -Block element:
-Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1>
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1> and there is a inline elements such as <img>
 
--inline element:
-Some elements will always appear to continue on the same line as their neighbouring elements. These are known as inline elements such as <img>
+
 
  Escape characters :
  There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
@@ -85,13 +84,15 @@ Some elements will always appear to continue on the same line as their neighbour
  **HTML5 Layout:**
 some of the html layout :
  The header and footer elements can be used for:
-- The main header or footer that appears at the top or
-bottom of every page on the site.
-- A header or footer for an individual <article> or
-<section> within the page.
+- The main header or footer that appears at the top or bottom of every page on the site.
+- A header or footer for an individual <article> or <section> within the page.
 
 The navigation <nav> element is used to contain the major navigational
 blocks on the site such as the primary site navigation.
 
-The <article> element acts as a container for any section of a
-page that could stand alone and potentially be syndicated.
+The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+Process  and Design :
+why should anyone visit your website or became his favorite ?
+exactly by your design and attractive page it should take all the customer or the user attention so you should take care about color style and the product or the service that you give.
+ you should ask your self first ,Who is the Site For? and who is your audience

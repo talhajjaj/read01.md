@@ -72,7 +72,7 @@ you can use the class attribute. Its value should describe the class it belongs 
 It is used to uniquely identify that element from other elements on the page, It is important that no two elements on the same page have the same value for their id attributes.
 
 -Block element:
-Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1> and there is a inline elements such as <img>
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1> .
 
 
  Escape characters :

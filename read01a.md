@@ -25,7 +25,7 @@ How it is created the web pages :
 the small pages are written with HTML and CSS. Larger, more complex sites like these may use a database to store data, and programming
 languages such as PHP, ASP.Net of web pages.
 
-#Structure :
+**Structure :**
 In all kinds of documents, structure is very important in helping
 readers to understand the messages of the documents so same of that the website working .
 so in the documintes there is a head and there is Each topic might

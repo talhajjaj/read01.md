@@ -41,3 +41,23 @@ border-width , The border-width property is used to control the width
 of a border.
 
 - The padding property allows you to specify how much space should appear between the content of an element and its border.
+- Margin :
+
+The margin property controls the gap between boxes. Its value is commonly given in pixels, although you may also use percentages .
+You can specify values for each
+side of a box using:
+margin-top
+margin-right
+margin-bottom
+margin-left
+
+- Centering Content:
+If you want to center a box on the page (or center it inside the element that it sits in), you can set the left-margin and right-margin to auto. 
+you can insert it like this,
+body {
+text-align: center;}
+
+Change Inline/Block :
+The display property allows you to turn an inline element into a block-level element or viceversa, and can also be used to
+hide an element from the page.
+you can add a border to it make it with rounded corner , and make for it a shadows..

@@ -1,63 +1,96 @@
-#Lists:
+Introduction 
 
-you can create lists in HTTML ,with many ways:
-- Ordered list: are lists where each item in the list is
-numbered , you can write it by useing the <ol> then write <li> inside it to give it a number .
-- Unordered lists: are lists that begin with a bullet point,
-you can write it by useing <ul> then write <li>
+you need a computer and a text editor to get the best benefited of this book .
+Fact that coding isnt that hard to learn how
+to write web pages and read
+the code used to create them; if you was a programmer , understanding HTML and CSS can help anyone who works with the web.
+we will learn about HTML ,CSS in this book :
+in HTML:
+ you will start by writing down the words you want to appear on your page. You then add tags or elements to the words so that the browser knows what is a heading ..
 
-- Definition lists : are made up of a set of terms along with the
-definitions for each of those terms.
-you should write The definition list is created with the <dl> element and usually consists of a series of terms and their definitions, Inside the <dl> element you will usually see pairs of <dt> and <dd> elements.
-*Lists can be nested inside one another.*
+in CSS :
+it used to control the styling and layout.
 
-#Boxes:
-how to handle with boxes ,
-- box dimenation : width ,height 
-By default a box is sized just big enough to hold its contents. To
-set your own dimensions for a box you can use the height and width properties.
+how to access the web?
+- Browsers:
+People access websites using software called a web browser. Popular examples include Firefox, Internet Explorer.
+- Web Servers :
+Web servers are special computers that are constantly connected to the Internet, and are optimized to send web pages out to people who request them.
 
-- Limiting Width:
- min-width, max-width ,
-Some page designs expand and shrink to fit the size of the user's screen.
+- Screen readers :
+ Screen readers are programs that read out the contents of a computer screen to a user.
 
-- Limiting Height:
-min-height, max-height
-you can control the height of your designs .
+- Devices:
+accessing websites on an increasing range of devices including desktop computers,laptops, tablets, and mobile
+phones.
+How it is created the web pages : 
+the small pages are written with HTML and CSS. Larger, more complex sites like these may use a database to store data, and programming
+languages such as PHP, ASP.Net of web pages.
 
-- Overflowing content:
-The overflow property tells the browser what to do if the content contained within a box is larger than the box itself.
+**Structure :**
 
-**Border margin and padding** :
-Border : Every box has a border (even if it is not visible or is specified to be 0 pixels wide).
-margin : Margins sit outside the edge of the border.
-padding : Padding is the space between the border of a box and any
-content contained within it.
-The padding and margin properties are very helpful in adding space
-between various items on the page.
+In all kinds of documents, structure is very important in helping
+readers to understand the messages of the documents so same of that the website working .
+so in the documintes there is a head and there is Each topic might
+have a new paragraph, and each section can have a heading to describe what it covers.
+so we use structure to added a Word document to make it
+easier to understand .
+this structure is html structure :
+<html>
+<body>
+<h1>This is the Main Heading</h1>
+<p>This text might be an introduction to the rest of
+the page. And if the page is a long one it might
+be split up into several sub-headings.<p>
+<h2>This is a Sub-Heading</h2>
+<p>Many long articles have sub-headings so to help
+you follow the structure of what is being written.
+There may even be sub-sub-headings (or lower-level
+headings).</p>
+<h2>Another Sub-Heading</h2>
+<p>Here you can see another sub-heading.</p>
+</body>
+</html>
 
-- Border Width : 
-border-width , The border-width property is used to control the width
-of a border.
+HTML uses elements to describe the structure of Pages , the Tags are often referred to as elements.
 
-- The padding property allows you to specify how much space should appear between the content of an element and its border.
-- Margin :
+**Extra Markup :**
+there is many virsions of HTML:
+Each new version was designed to be an improvement on the last ,
+HTML4 : released 1997
+XHTML 1.0 :released 2000
+HTML5 :released 2000 ,Despite the fact that HTML5 is not yet completed, but you can safely take advantage of the new features of the language.
+- how to add a comment ?
+If you want to add a comment to your code that will not be
+visible in the user's browser, you can add the text between these
+characters:
+<!-- comment goes here -->
+- class attribute :
+you can use the class attribute. Its value should describe the class it belongs to.
 
-The margin property controls the gap between boxes. Its value is commonly given in pixels, although you may also use percentages .
-You can specify values for each
-side of a box using:
-margin-top
-margin-right
-margin-bottom
-margin-left
+- Id attribute:
+It is used to uniquely identify that element from other elements on the page, It is important that no two elements on the same page have the same value for their id attributes.
 
-- Centering Content:
-If you want to center a box on the page (or center it inside the element that it sits in), you can set the left-margin and right-margin to auto. 
-you can insert it like this,
-body {
-text-align: center;}
+-Block element:
+Some elements will always appear to start on a new line in the browser window. These are known as block level elements such as <h1> .
 
-Change Inline/Block :
-The display property allows you to turn an inline element into a block-level element or viceversa, and can also be used to
-hide an element from the page.
-you can add a border to it make it with rounded corner , and make for it a shadows..
+
+ Escape characters :
+ There are some characters that are used in and reserved by HTML code. (For example, the left and right angled brackets.)
+
+ **HTML5 Layout:**
+some of the html layout :
+ The header and footer elements can be used for:
+- The main header or footer that appears at the top or bottom of every page on the site.
+- A header or footer for an individual <article> or <section> within the page.
+
+The navigation <nav> element is used to contain the major navigational
+blocks on the site such as the primary site navigation.
+
+The <article> element acts as a container for any section of a page that could stand alone and potentially be syndicated.
+
+Process  and Design :
+why should anyone visit your website or became his favorite ?
+exactly by your design and attractive page it should take all the customer or the user attention so you should take care about color style and the product or the service that you give.
+ you should ask your self first ,Who is the Site For? and who is your audience
+

@@ -23,6 +23,9 @@ and this is my reading notes table *;
 
 |reading number|[Link]| 
 --------   | ------------------------------------------------------- 
-|read01a  |[Link](https://talhajjaj.github.io/reading-notes/read01a) |
 |read02a  |[Link](https://talhajjaj.github.io/reading-notes/read02a) |
 |read03a  |[Link](https://talhajjaj.github.io/reading-notes/read03a) |
+|read04a  |[Link](https://talhajjaj.github.io/reading-notes/read04a) |
+|read05a  |[Link](https://talhajjaj.github.io/reading-notes/read05a) |
+
+

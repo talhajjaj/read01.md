@@ -14,3 +14,17 @@ how adding images?
 src:
 This tells the browser where it can find the image file. This will usually be a relative URL pointing to an image .
 alt : to descripe text of image .
+
+you can control of width and height ,by adding the height and width to the <img src "" height="" width"" > 
+height: is this specifies the height of the image in pixels.
+width: is this specifies the width of the image in pixels.
+so where you gonna put the image is really matter ,you can put it before a paragraph ,inside the start of a paragraph or in the middle of a paragraph.
+we can use elign element to  indicate how the other parts of a page should flow around an image it can be on left or right on the top , middle or bottom. and you added it to the code <img src "" elign=>.
+
+Three rules for creating images:
+- Save images in the right format.
+- Save images at the right size.
+- Use the correct resolution.
+you can insert animated gifs to your page ,animated GIFs show several frames of an image in sequence and therefore can be used to create simple animations.
+
+

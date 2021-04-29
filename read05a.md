@@ -39,12 +39,38 @@ Contrast, when picking foreground and background colors, it is important to ensu
 - low contrast :text is harder to read when there is low contrast between background and foreground colors.
 - High contrast : Text is easier to read when there is higher contrast between background and foreground colors.
 -Medium contrast: For long spans of text, reducing the contrast a little bit improves readability.
+
+.
 CSS 3: opacity opacity, rgba ; the CSS3 rgba property allows
 you to specify a color.
+
 hsl color ,introduces an entirely new and intuitive way to specify colors using hue, saturation, and lightness values.
 hue:
 hue is the colloquial idea of color. In HSL colors, hue is often
 represented as a color circle where the angle represents the color.
 saturation :saturation is the amount of gray in a color, is a shade of gray.
 ligh tness;
-Lightness is the amount of white (lightness) or black (darkness) in a color
+Lightness is the amount of white (lightness) or black (darkness) in a color.
+
+**Text:**
+you know that you can control the size ,color or type of the text .
+type of fonts:
+Serif fonts have extra details on the ends of the main strokes of the letter.
+Sans-serif fonts have straight ends to letters, and therefore have a much cleaner design.
+monospace ; Every letter in a monospace (or fixed-width) font is the same width.
+When choosing a typeface, it is important to understand that a browser will usually only display it if it's installed on that
+user's computer.
+There are several ways to use fonts other than those listed on the
+previous page.
+font-family;The font-family propertyallows you to specify the typeface that should be used for any text inside the element(s) to
+which a CSS rule applies.
+Fontface: CSS specifies where a font can be downloaded from if it is not installed on the computer.
+Service-based font-face; Commercial services give users access to a wider range of fonts using @ font-face.
+- font size :
+The font-size property enables you to specify a size for the font, you can specify size by using ; pixels,percentages.
+The font-weight property allows you to create bold text.
+There are two values that this property commonly takes: normal, bold .
+font style; 
+normal,this causes text to appear in a normal style (as opposed to italic or oblique).
+italic; This causes text to appear italic.
+oblique; This causes text to appear oblique.

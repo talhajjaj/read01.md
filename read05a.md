@@ -1,12 +1,12 @@
 **Images:**
 did you know that you can add images to your website ? 
 you must learn how to inseret an image to your page to attractive users when you add images you should be carefull about Property rights. there are companies who sell stock images; these are images you pay to use (there is a list of stock photography websites below).
-Stock photos
-www.istockphoto.com
-www.gettyimages.com
-www.veer.com
-www.sxc.hu
-www.fotolia.com 
+Stock photos:
+- www.istockphoto.com
+- www.gettyimages.com
+- www.veer.com
+- www.sxc.hu
+- www.fotolia.com 
 we can use these sites so let us leave it here ..
 If you are building a site from scratch, it is good practice to create a folder for all of the images the site uses, you should store it on your computer .
 how adding images?
@@ -39,4 +39,12 @@ Contrast, when picking foreground and background colors, it is important to ensu
 - low contrast :text is harder to read when there is low contrast between background and foreground colors.
 - High contrast : Text is easier to read when there is higher contrast between background and foreground colors.
 -Medium contrast: For long spans of text, reducing the contrast a little bit improves readability.
-CSS 3: opacity opacity, rgba
+CSS 3: opacity opacity, rgba ; the CSS3 rgba property allows
+you to specify a color.
+hsl color ,introduces an entirely new and intuitive way to specify colors using hue, saturation, and lightness values.
+hue:
+hue is the colloquial idea of color. In HSL colors, hue is often
+represented as a color circle where the angle represents the color.
+saturation :saturation is the amount of gray in a color, is a shade of gray.
+ligh tness;
+Lightness is the amount of white (lightness) or black (darkness) in a color

@@ -28,3 +28,15 @@ Three rules for creating images:
 you can insert animated gifs to your page ,animated GIFs show several frames of an image in sequence and therefore can be used to create simple animations.
 
 
+**color**:
+colors will bring life to your page ,
+Foreground color;
+The color property allows you to specify the color of text inside an element.
+Background-color;You can specify your choice of background color,by default, most browser windows have a white background.
+- every color on a computer screen is created by mixing amounts of red, green, and blue. To find the color you want, you can use a color picker.
+- The color of every pixel on the screen is expressed in terms of a mix of red, green, and blue .
+Contrast, when picking foreground and background colors, it is important to ensure that there is enough contrast for the text to be legible.
+- low contrast :text is harder to read when there is low contrast between background and foreground colors.
+- High contrast : Text is easier to read when there is higher contrast between background and foreground colors.
+-Medium contrast: For long spans of text, reducing the contrast a little bit improves readability.
+CSS 3: opacity opacity, rgba

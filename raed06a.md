@@ -30,3 +30,10 @@ selecting an element from a nodelist ;
 There are two ways to select an element from a Nodelist:
 The item() method and array syntax. Both require the index number of the element you want.
 Array syntax is preferred over the item() method because it is faster.before selecting a node from a nodelist , check that it contains nodes . if you repeatedly use the Nodelist ,store it in a variable.
+
+Repeating actions for an entire noodelist;
+
+when you have Nodelist,you can loop through each node in the collection and apply the same statements to each.
+
+attribute nodes ;
+once you have an element node, you can use other properties and methods on that element node to access and change its attributes.

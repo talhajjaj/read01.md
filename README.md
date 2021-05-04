@@ -28,5 +28,8 @@ and this is my reading notes table *;
 |read04a  |[Link](https://talhajjaj.github.io/reading-notes/read04a) |
 |read05a  |[Link](https://talhajjaj.github.io/reading-notes/read05a) |
 |read06a  |[Link](https://talhajjaj.github.io/reading-notes/read06a) |
+|read07a  |[Link](https://talhajjaj.github.io/reading-notes/read07a) |
+|read08a  |[Link](https://talhajjaj.github.io/reading-notes/read08a) |
+
 
 

@@ -30,3 +30,9 @@ you can add properties and methods to the object
 you can use syantax to add properties and methods to any object you have created .
 to creat an empty object using literal notation use 
 curly brackets to creat empty object {}.
+updating an object :
+to update the value of properties, we use dot notation or square brackets , they work on objects created using literal or constructor notation.to delete a property , use the delete keyword.
+creating many objects;
+constructor notation ,
+somtimes you will want several objects to represent similar things.
+object constructors can use a function as a template for creating objects. creat the template with the object's propertes and methods.

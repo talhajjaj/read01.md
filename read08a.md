@@ -40,4 +40,30 @@ margin : to creat gap between columns .
 **screen size :**
  your site will have different sized screens that show
 different amounts of information,so your design needs to be able to work on ,the size of a user's screen affects how big they can open
-their windows and how much of the page they will see.
+their windows and how much of the page they will see, and its count on resolution refers to the number of dots a screen shows per inch.
+
+fixed width layouts
+it designs to dont change size as the user increases or secreases the size of their browser window,
+there is a dvantages :
+- you can control the lengths of lines of text regardless of the size of users window .
+- the size of an image will always remain the same relative to the rest of the age .
+Disadvantages:
+you can end up with big gaps around the edge of a page .
+if the user increases font size ,text might not fit into the allotted spaces
+.
+
+.
+liquid layout designs stretch and contract as the user increases or decreases the size of the browser window 
+Advantages;
+- Pages expand to fill the entire browser window so there are no spaces around the page on a large screen.
+- If the user has a small window, the page can
+contract to fit it without the user having to scroll to the side.
+liquid layout designs stretch and contract as the user increases or decreases the size of the browser window 
+Advantages;
+- Pages expand to fill the entire browser window so there are no spaces around the page on a large screen.
+- If the user has a small window, the page can
+contract to fit it without the user having to scroll to the side.
+disadvanteges:
+- If the user has a very narrow window, words may be squashed and you can end up with few words on each line.
+-  If a fixed width item (such as an image) is in a box that is too small to hold it (because
+the user has made the window smaller) the imagecan overflow over the text.

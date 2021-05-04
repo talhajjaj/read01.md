@@ -38,7 +38,8 @@ somtimes you will want several objects to represent similar things.
 object constructors can use a function as a template for creating objects. creat the template with the object's propertes and methods.
 you can create instances of the object using the constructor function
 the new keyword followed by a call to the function creats anew object , the properties of each object are given as arguments to the function.
-arrays are object:
+.
+**arrays are object:**
 array are actually a special type of object . they hold a related set of key/value pairs (like all objects), but the key for each value is its index number .
 arrays of object and objects in array:
 you can combain arrays and objects to create complex data structure :

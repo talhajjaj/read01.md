@@ -28,10 +28,8 @@ Form structure:
 by useing 'form 'element  it ashould carry the action attribute and will usually have a method and id attribute too.
 
 its need action its value is the URL for the page on the server that will receive the info .
-
  text input : 
-
- input it used to creat several different form controls.
+input it used to creat several different form controls.
 type="text"
 When the type attribute has a value of text, it creates a singleline text input.
 and you write the name of it name="" and the size of it ,
@@ -50,5 +48,5 @@ the value that is sent to the server for the selected option.
 - how to creat Checkbox?
 by writing the input type = checkbox then name it ,and value .
 
->HTML5 introduces new form elements which make it
-easier for visitors to fill in forms.
+HTML5 introduces new form elements which make it
+easier to fill it.

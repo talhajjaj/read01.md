@@ -50,3 +50,21 @@ by writing the input type = checkbox then name it ,and value .
 
 HTML5 introduces new form elements which make it
 easier to fill it.
+
+**Lists, Tables & Forms:**
+how to creat tables and lists;
+there is many types of lists ;
+such as - unordered lists 
+- Ordered lists :numberd lists
+- image style : You can specify an image to act as a bullet point using the list-style-image property.
+adding tables element in html , 
+
+
+- width ; to set the width of the table
+- padding ; to set the space between the border of each table cell and its content
+- text-transform ; to convert the content of the table headers to uppercase
+- letter-spacing, font-size ; to add additional styling to the content of the table headers
+- border-top, border-bottom;
+to set borders above and below the table headers
+- text-align ; to align the writing to the left of some table cells and to the right of the others
+- background-color ; to change the background color of the alternating table rows

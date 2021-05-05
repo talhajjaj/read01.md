@@ -47,7 +47,8 @@ writing input element choose type is "radio"
 name; the name attribute is sent to the server with the value of the option the user selects.
 the value ; the value attribute indicates
 the value that is sent to the server for the selected option.
-
+- how to creat Checkbox?
+by writing the input type = checkbox then name it ,and value .
 
 >HTML5 introduces new form elements which make it
 easier for visitors to fill in forms.

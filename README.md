@@ -30,6 +30,8 @@ and this is my reading notes table *;
 |read06a  |[Link](https://talhajjaj.github.io/reading-notes/read06a) |
 |read07a  |[Link](https://talhajjaj.github.io/reading-notes/read07a) |
 |read08a  |[Link](https://talhajjaj.github.io/reading-notes/read08a) |
+|read09a  |[Link](https://talhajjaj.github.io/reading-notes/read09a) |
+|read10a  |[Link](https://talhajjaj.github.io/reading-notes/read10a) |
 
 
 

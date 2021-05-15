@@ -1,4 +1,6 @@
 **Images :**
+
+
 did you know that you can control the size of images ? 
 
 you can change it by using the length and width property in css.
@@ -35,23 +37,11 @@ p {
 
    you can control the position as making it ;
 
-left top
+left ;(top , center, bottom)
 
-left center
+center;( top, center,bottom)
 
-left bottom
-
-center top
-
-center center
-
-center bottom
-
-right top
-
-right center
-
-right bottom.
+right;( top, center,bottom)
 
 The background property acts like a shorthand for all of the other background properties you have just seen, and also the background-color property.
 
@@ -98,3 +88,17 @@ Search engines rely on you providing accurate descriptions of images in the alt 
 
 The description also lives inside
 the head element and is specified using a meta tag. It should be a sentence that describes the content of the page.
+
+How many people are coming to your site?
+- Visits;
+
+This is the number of times people have come to your site. If someone is inactive on your site for 30 minutes and then looks at another page on your site, it will be counted as a new visit.
+
+- Unique Visits;
+
+This is the total number of people who have visited your site over the specified period. The number of unique visits will be lower than the number of visits if people have been returning to your site more than once in the defined period.
+
+- Page Views; 
+
+The total number of pages all visitors have viewed on your site.
+Pages per Visit the average number of pages each visitor has looked at on your site per visit..

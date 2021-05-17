@@ -18,3 +18,39 @@ how to creat it ?
 first you need to add the canvas element copy it from the site .
 Next we need to create the data. This data is a little different to the line chart because the pie chart is simpler, we just need to supply a value and a color for each section.
 then add the options its have a work first its remove the stroke from segments .
+
+the canvas element ;
+the canvas element its added to the HTML, it has only two attributes, width and height.
+but during rendering the image is scaled to fit its layout size: if the CSS sizing doesn't respect the ratio of the initial canvas, it will appear distorted,
+specifying your width and height to avoid this issue.
+the canvas element requires the closing tag /canvas. If this tag is not present, the rest of the document would be considered the fallback content and wouldn't be displayed.
+
+**Drawing shapes with canvas;**
+- The grid:
+
+Before we can start drawing,The origin of this grid is positioned in the top left corner at coordinate (0,0). All elements are placed relative to this origin. So the position of the top left corner of the blue square becomes x pixels from the left and y pixels from the top, at coordinate (x,y). 
+
+- Drawing rectangles:
+
+supports two primitive shapes: rectangles and paths,all other shapes must be created by combining one or more paths. 
+
+and you can creat ;Lines,moving the pen,drawing a triangle, drawing paths.
+
+
+**Applying styles and colors**
+
+- Colors;  If we want to apply colors to a shape, there are two important properties we can use: fillStyle and strokeStyle.
+color is a string representing a CSS,
+
+-Transparency;
+In addition to drawing opaque shapes to the canvas, we can also draw semi-transparent (or translucent) shapes. This is done by either setting the globalAlpha property .
+
+- Line styles; 
+There are several properties which allow us to style lines, here some of;
+
+lineWidth = value
+Sets the width of lines drawn in the future.
+lineCap = type
+Sets the appearance of the ends of lines.
+lineJoin = type
+Sets the appearance of the "corners" where lines meet.

@@ -54,3 +54,12 @@ lineCap = type
 Sets the appearance of the ends of lines.
 lineJoin = type
 Sets the appearance of the "corners" where lines meet.
+
+- Drawing text;
+The canvas rendering context provides two methods to render text:
+Strokes a given text at the given (x,y) position. Optionally with a maximum width to draw .
+Styling text;
+There are some more properties which let you adjust the way the text gets displayed on the canvas:
+font = value
+textAlign = value
+textBaseline = value

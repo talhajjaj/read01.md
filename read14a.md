@@ -27,3 +27,18 @@ Transition Delay;
 
 On top of declaring the transition property, duration, and timing function, you can also set a delay with the transition-delay property. The delay sets a time value, seconds or milliseconds.
 
+ effects that will add life to your UI such as  ;
+1. Fade in;
+ It’s a great way to emphasize functionality or draw attention to a call to action.
+
+2. Change color ;
+Animating a change of color used to be unbelievably complex
+
+3. Grow & Shrink;
+To grow an element, you used to have to use its width and height, or its padding.
+
+4. Rotate elements
+CSS transforms have a number of different uses, and one of the best is transforming the rotation of an element.
+
+5. Square to circle
+A really popular effect at the moment is transitioning a square element into a round one,

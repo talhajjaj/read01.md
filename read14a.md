@@ -13,3 +13,17 @@ The rotate value provides the ability to rotate an element from 0 to 360 degrees
 
 - 2D Translate,
 value works a bit like that of relative positioning, pushing and pulling an element in different directions without interrupting the normal flow of the document.
+
+**Transitions & Animations**
+
+Transitions;
+
+The easiest way for determining styles for different states is by using the( 
+:hover, :focus, :active, and :target pseudo-classes).
+
+all of the properties within an element’s different states will be altered upon change,It is important to note, not all properties may be transitioned, only properties that have an identifiable halfway point. Colors, font sizes, and the alike may be transitioned from one value to another.
+
+Transition Delay;
+
+On top of declaring the transition property, duration, and timing function, you can also set a delay with the transition-delay property. The delay sets a time value, seconds or milliseconds.
+

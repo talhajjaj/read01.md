@@ -3,7 +3,10 @@
 *Hello, this is Taima al-hajjaj , 
 and this is my reading notes table *;
 
-**reading code 102**
+**Code 102 - Intro to Software Development .**
+
+
+***Reading table*** :
 
 |reading number|[Link]| 
 --------   | ------------------------------------------------------- 
@@ -19,7 +22,14 @@ and this is my reading notes table *;
 |read09    |[link](https://talhajjaj.github.io/reading-notes/read09) |
 
 
-**reading code 201 : **
+
+
+**Code 201 - Foundations of Software Development .**
+
+***Reading table*** :
+
+
+
 
 |reading number|[Link]| 
 --------   | ------------------------------------------------------- 
@@ -35,3 +45,11 @@ and this is my reading notes table *;
 
 
 
+**Code 301 - Intermediate Software Development**
+
+***Reading table*** :
+
+
+**Code 401 - Advanced Software Development**
+
+***Reading table*** :

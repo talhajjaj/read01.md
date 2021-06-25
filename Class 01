@@ -45,3 +45,13 @@ Applications built with just React usually have a single root DOM node.
 To render a React element into a root DOM node, pass both to ReactDOM.render():.
 React elements are immutable ,the only way to update the UI is to create a new element, and pass it to ReactDOM.render().
 
+
+components and props :
+ Components are like JavaScript functions. They accept arbitrary inputs (called “props”) and return React elements describing what should appear on the screen , and components can refer to other components in their output.
+
+
+- All React components must act like pure functions with respect to their props.
+
+
+
+

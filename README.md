@@ -42,13 +42,20 @@ and this is my reading notes table *;
 |read08a  |[Link](https://talhajjaj.github.io/reading-notes/read08a) |
 |read09a  |[Link](https://talhajjaj.github.io/reading-notes/read09a) |
 |read10a  |[Link](https://talhajjaj.github.io/reading-notes/read10a) |
-
+|read11a  |[Link](https://talhajjaj.github.io/reading-notes/read11a) |
+|read12a  |[Link](https://talhajjaj.github.io/reading-notes/read12a) |
+|read13a  |[Link](https://talhajjaj.github.io/reading-notes/read13a) |
+|read14a  |[Link](https://talhajjaj.github.io/reading-notes/read14a) |
+|read14b  |[Link](https://talhajjaj.github.io/reading-notes/read14b) |
 
 
 **Code 301 - Intermediate Software Development**
 
 ***Reading table*** :
 
+|reading number|[Link]| 
+--------   | ------------------------------------------------------- 
+|Class 01 |[Link](https://talhajjaj.github.io/reading-notes/Class01) |
 
 **Code 401 - Advanced Software Development**
 

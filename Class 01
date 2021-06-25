@@ -30,6 +30,7 @@ and the end result is the same..
 
 In React, function components are a simpler way to write components that only contain a render method and don’t have their own state. Instead of defining a class which extends React.Component, we can write a function that takes props as input and returns what should be rendered. Function components are less tedious to write than classes, and many components can be expressed this way.
 
+
 simple example code with react :
 ReactDOM.render(
   <h1>Welcome</h1>,
@@ -43,3 +44,4 @@ We call this a “root” DOM node because everything inside it will be managed 
 Applications built with just React usually have a single root DOM node.
 To render a React element into a root DOM node, pass both to ReactDOM.render():.
 React elements are immutable ,the only way to update the UI is to create a new element, and pass it to ReactDOM.render().
+

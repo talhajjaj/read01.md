@@ -55,7 +55,7 @@ and this is my reading notes table *;
 
 |reading number|[Link]| 
 --------   | ------------------------------------------------------- 
-|class01 |[Link](https://talhajjaj.github.io/reading-notes/class01) |
+|read class01 |[Link](https://talhajjaj.github.io/reading-notes/readclass01) |
 
 **Code 401 - Advanced Software Development**
 

@@ -31,4 +31,22 @@ const oldArray = [`3`,`2`,`1`]
 
 const ourArray = [...newArray,...oldArray]
 
-this example is for using the spread operator to combine two arrays.
+- this example is for using the spread operator to combine two arrays.
+
+const fruits = ['🍏','🍊','🍌','🍉','🍍']
+
+const moreFruits = [...fruits];
+
+
+fruits[0] = '🍑'
+
+- this example it shows of using the spread operator to add a new item to an array.
+
+
+const hello = {hello: "😋😛😜🤪😝"}
+
+const world = {world: "🙂🙃😉😊😇🥰😍🤩!"}
+
+const helloWorld = {...hello,...world}
+console.log(helloWorld)
+- example of using the spread operator to add a new item to an array.

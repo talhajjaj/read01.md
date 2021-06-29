@@ -12,3 +12,23 @@ we creat it insid a <ul> element we put insid it <li> elements to return the ele
 - Each list item needs a unique string and key.
 
 - the purpose of a key ,its work  as a hint to react but they don’t get passed to your components. If you need the same value in your component, pass it explicitly as a prop with a different name.
+
+
+*The Spread Operator;*
+
+so what is the Spread Operator? 
+
+it is a useful and quick syntax for adding items to arrays, combining arrays or objects, and spreading an array out into a function’s arguments.
+
+and we can use it for many task or beniefts lets mention 4 of them :
+Copying an array,concatenating or combining arrays, using Math functions,using an array as arguments.
+
+lets give some examples about spread operator;
+
+const newArray = [`1`,`2`,`3`]
+
+const oldArray = [`3`,`2`,`1`]
+
+const ourArray = [...newArray,...oldArray]
+
+this example is for using the spread operator to combine two arrays.

@@ -57,6 +57,15 @@ and this is my reading notes table *;
 --------   | ------------------------------------------------------- 
 |read class1 |[Link](https://talhajjaj.github.io/reading-notes/readclass1) |
 |read class2 |[Link](https://talhajjaj.github.io/reading-notes/readclass2) |
+|read class3 |[Link](https://talhajjaj.github.io/reading-notes/readclass3) |
+|read class4 |[Link](https://talhajjaj.github.io/reading-notes/readclass4) |
+|read class5 |[Link](https://talhajjaj.github.io/reading-notes/readclass5) |
+|read class6 |[Link](https://talhajjaj.github.io/reading-notes/readclass6) |
+|read class7 |[Link](https://talhajjaj.github.io/reading-notes/readclass7) |
+|read class8 |[Link](https://talhajjaj.github.io/reading-notes/readclass8) |
+|read class9 |[Link](https://talhajjaj.github.io/reading-notes/readclass9) |
+|read class10 |[Link](https://talhajjaj.github.io/reading-notes/readclass10) |
+
 
 **Code 401 - Advanced Software Development**
 

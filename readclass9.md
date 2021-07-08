@@ -18,4 +18,12 @@ Given a parameter C → expect the function to return value D
 
  if a function consistently yields the same result for the same input, it is referentially transparent.
 pure functions + immutable data = referential transparency
-With this concept, a cool thing we can do is to memoize the function
+With this concept, a cool thing we can do is to memoize the function.
+
+
+**Node JS Tutorial for Beginners #6 - Modules and require()**
+
+What is a module?
+What does the word ‘require’ do?
+How do we bring another module into the file the we are working in?
+What do we have to do to make a module available?

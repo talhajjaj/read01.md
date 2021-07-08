@@ -24,6 +24,16 @@ With this concept, a cool thing we can do is to memoize the function.
 **Node JS Tutorial for Beginners #6 - Modules and require()**
 
 What is a module?
+Module in Node.js is a simple or complex functionality organized in single or multiple JavaScript files which can be reused throughout the Node.js application.
+
 What does the word ‘require’ do?
+The require() function will return an object, function, property or any other JavaScript type, depending on what the specified module returns.
 How do we bring another module into the file the we are working in?
+by using the require function
+
 What do we have to do to make a module available?
+sing the exports keyword to make it available for import elsewhere
+
+# references:
+https://www.sitepoint.com/understanding-module-exports-exports-node-js/
+https://www.tutorialsteacher.com/nodejs/nodejs-modules

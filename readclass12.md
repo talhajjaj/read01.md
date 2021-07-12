@@ -43,3 +43,32 @@ NoSQL database fits better for the hierarchical data storage
 
 -Which type of database is best for scalability?
 NoSQL
+
+
+**sql vs nosql**
+
+- What does SQL stand for?
+Structured query language
+- What is a realational database?
+It’s a type of database that stores and provides access to data points that are related to one another.
+
+
+- What type of structure does a relational database work with?
+Logical database.
+- What is a ‘schema’?
+it is refers to the organization of data as a blueprint of how the database is constructed.
+- What is a NoSQL database?
+ NoSQL database are primarily called as non-relational or distributed database.
+- Howo does it work? its work dynamically.
+- What is inside of a Mongo database? it contain alot of data in very efficint way.
+- Which is more flexible - SQL or MongoDB? and why.
+
+mongoDB is more flexible,
+you can have different documents in one 
+- What is the disadvantage of a NoSQL database?
+1. NoSQL databases don’t have the reliability functions which Relational Databases have (basically don’t support ACID).
+2. NoSQL is not compatible (at all) with SQL
+
+3. NoSQL are very new compared to Relational Databases, which means that are far less stable and may have a lot less functionalities. 
+
+**Note : last question from here https://dev.to/lmolivera/everything-you-need-to-know-about-nosql-databases-3o3h#advAndDis"
